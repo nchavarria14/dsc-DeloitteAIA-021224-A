@@ -1,4 +1,4 @@
-# dsc-Deloitte-07242📉📊📈 - SQL queries
+# dsc-Deloitte-021224-A 📉📊📈 - SQL queries
 
 This repository contains material describing SQLite and SQL SELECT syntax and discusses the structure of relational databases. It also discusses pandas code we can use to interface with SQL databases. 
 
