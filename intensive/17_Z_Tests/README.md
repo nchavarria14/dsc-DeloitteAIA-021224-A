@@ -1,0 +1,3 @@
+# dsc-DeloitteAIA-021224-A 📉📊📈 -  Z-tests
+
+This repository introduces hypothesis testing following from the standard normal distribution AKA the z-distribution. It discusses the hypothesis test corresponding to the z-distribution (Standard Normal Distribution), the z-test. It was found within the bristles of a brush making its finishing stroke on a work of art. Can't really tell what the work is but, strangely enough, it has a familiar symmetry to it. Its presented here with ❤️ by the Flatiron School.
